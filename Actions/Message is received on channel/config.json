@@ -1,0 +1,1162 @@
+[
+  {
+    "Name": "event_context",
+    "Owner": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "Label_c": "Event Context",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 28177,
+      "Name": "AA24364"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "4-eyJldCI6Im1lc3NhZ2UiLCJ0aWQiOiJUMDVBQ0c3RUI4USIsImFpZCI6IkEwNk5DNFRNOTk5IiwiY2lkIjoiQzA2TjU2R0pERkgifQ",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": true,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2024-03-13T06:13:00",
+    "CreatedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ModifiedOn": "2024-03-13T06:13:00",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 788639,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "is_ext_shared_channel",
+    "Owner": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "Label_c": "Is Ext Shared Channel",
+    "Type_c": "Boolean",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 28177,
+      "Name": "AA24364"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": true,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2024-03-13T06:13:00",
+    "CreatedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ModifiedOn": "2024-03-13T06:13:00",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 788638,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "is_enterprise_install",
+    "Owner": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "Label_c": "Authorizations -> Is Enterprise Install",
+    "Type_c": "Boolean",
+    "ParentKey_c": "authorizations",
+    "ActionId_c": {
+      "ID": 28177,
+      "Name": "AA24364"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": true,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2024-03-13T06:13:00",
+    "CreatedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ModifiedOn": "2024-03-13T06:13:00",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 788637,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "is_bot",
+    "Owner": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "Label_c": "Authorizations -> Is Bot",
+    "Type_c": "Boolean",
+    "ParentKey_c": "authorizations",
+    "ActionId_c": {
+      "ID": 28177,
+      "Name": "AA24364"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": true,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2024-03-13T06:13:00",
+    "CreatedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ModifiedOn": "2024-03-13T06:13:00",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 788636,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "user_id",
+    "Owner": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "Label_c": "Authorizations -> User ID",
+    "Type_c": "String",
+    "ParentKey_c": "authorizations",
+    "ActionId_c": {
+      "ID": 28177,
+      "Name": "AA24364"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "U059NPVHYUT",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": true,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2024-03-13T06:13:00",
+    "CreatedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ModifiedOn": "2024-03-13T06:13:00",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 788635,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "team_id",
+    "Owner": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "Label_c": "Authorizations -> Team ID",
+    "Type_c": "String",
+    "ParentKey_c": "authorizations",
+    "ActionId_c": {
+      "ID": 28177,
+      "Name": "AA24364"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "T05ACG7EB8Q",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": true,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2024-03-13T06:13:00",
+    "CreatedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ModifiedOn": "2024-03-13T06:13:00",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 788634,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "enterprise_id",
+    "Owner": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "Label_c": "Authorizations -> Enterprise ID",
+    "Type_c": "String",
+    "ParentKey_c": "authorizations",
+    "ActionId_c": {
+      "ID": 28177,
+      "Name": "AA24364"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": true,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2024-03-13T06:13:00",
+    "CreatedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ModifiedOn": "2024-03-13T06:13:00",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 788633,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "event_time",
+    "Owner": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "Label_c": "Event Time",
+    "Type_c": "Integer",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 28177,
+      "Name": "AA24364"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "1709894216",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": true,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2024-03-13T06:13:00",
+    "CreatedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ModifiedOn": "2024-03-13T06:13:00",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 788632,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "event_id",
+    "Owner": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "Label_c": "Event ID",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 28177,
+      "Name": "AA24364"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "Ev06NDE3NLBY",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": true,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2024-03-13T06:13:00",
+    "CreatedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ModifiedOn": "2024-03-13T06:13:00",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 788631,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "type",
+    "Owner": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "Label_c": "Type",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 28177,
+      "Name": "AA24364"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "event_callback",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": true,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2024-03-13T06:13:00",
+    "CreatedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ModifiedOn": "2024-03-13T06:13:00",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 788630,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "event.channel_type",
+    "Owner": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "Label_c": "Event Channel Type",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 28177,
+      "Name": "AA24364"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "group",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": true,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2024-03-13T06:13:00",
+    "CreatedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ModifiedOn": "2024-03-13T06:13:00",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 788629,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "event.event_ts",
+    "Owner": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "Label_c": "Event Event Ts",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 28177,
+      "Name": "AA24364"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "1709894216.158529",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": true,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2024-03-13T06:13:00",
+    "CreatedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ModifiedOn": "2024-03-13T06:13:00",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 788628,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "event.channel",
+    "Owner": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "Label_c": "Event Channel",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 28177,
+      "Name": "AA24364"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "C06N56GJDFH",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": true,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2024-03-13T06:13:00",
+    "CreatedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ModifiedOn": "2024-03-13T06:13:00",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 788627,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "text",
+    "Owner": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "Label_c": "Event Blocks -> Elements -> Elements -> Text",
+    "Type_c": "String",
+    "ParentKey_c": "event.blocks|elements|elements",
+    "ActionId_c": {
+      "ID": 28177,
+      "Name": "AA24364"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "Vhalo",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": true,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2024-03-13T06:13:00",
+    "CreatedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ModifiedOn": "2024-03-13T06:13:00",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 788626,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "type",
+    "Owner": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "Label_c": "Event Blocks -> Elements -> Elements -> Type",
+    "Type_c": "String",
+    "ParentKey_c": "event.blocks|elements|elements",
+    "ActionId_c": {
+      "ID": 28177,
+      "Name": "AA24364"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "text",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": true,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2024-03-13T06:13:00",
+    "CreatedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ModifiedOn": "2024-03-13T06:13:00",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 788625,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "type",
+    "Owner": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "Label_c": "Event Blocks -> Elements -> Type",
+    "Type_c": "String",
+    "ParentKey_c": "event.blocks|elements",
+    "ActionId_c": {
+      "ID": 28177,
+      "Name": "AA24364"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "rich_text_section",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": true,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2024-03-13T06:13:00",
+    "CreatedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ModifiedOn": "2024-03-13T06:13:00",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 788624,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "block_id",
+    "Owner": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "Label_c": "Event Blocks -> Block ID",
+    "Type_c": "String",
+    "ParentKey_c": "event.blocks",
+    "ActionId_c": {
+      "ID": 28177,
+      "Name": "AA24364"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "QFDhW",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": true,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2024-03-13T06:13:00",
+    "CreatedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ModifiedOn": "2024-03-13T06:13:00",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 788623,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "type",
+    "Owner": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "Label_c": "Event Blocks -> Type",
+    "Type_c": "String",
+    "ParentKey_c": "event.blocks",
+    "ActionId_c": {
+      "ID": 28177,
+      "Name": "AA24364"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "rich_text",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": true,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2024-03-13T06:13:00",
+    "CreatedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ModifiedOn": "2024-03-13T06:13:00",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 788622,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "event.team",
+    "Owner": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "Label_c": "Event Team",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 28177,
+      "Name": "AA24364"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "T05ACG7EB8Q",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": true,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2024-03-13T06:13:00",
+    "CreatedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ModifiedOn": "2024-03-13T06:13:00",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 788621,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "event.text",
+    "Owner": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "Label_c": "Event Text",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 28177,
+      "Name": "AA24364"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "Vhalo",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": true,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2024-03-13T06:13:00",
+    "CreatedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ModifiedOn": "2024-03-13T06:13:00",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 788620,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  }
+]
