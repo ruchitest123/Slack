@@ -1,0 +1,292 @@
+[
+  {
+    "Name": "channel",
+    "Owner": {
+      "ID": 17,
+      "Name": "Vaikuntha Jamnerkar"
+    },
+    "Label_c": "Channel",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 27363,
+      "Name": "AA23550"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "C04BA4L8M37",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-08-22T12:15:54",
+    "CreatedBy": {
+      "ID": 17,
+      "Name": "Vaikuntha Jamnerkar"
+    },
+    "ModifiedOn": "2023-08-22T12:15:54",
+    "ModifiedBy": {
+      "ID": 17,
+      "Name": "Vaikuntha Jamnerkar"
+    },
+    "ID": 714944,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "permalink",
+    "Owner": {
+      "ID": 17,
+      "Name": "Vaikuntha Jamnerkar"
+    },
+    "Label_c": "Permalink",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 27363,
+      "Name": "AA23550"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "https://companyhubgroup.slack.com/archives/C04BA4L8M37/p1692704022481059",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-08-22T12:15:54",
+    "CreatedBy": {
+      "ID": 17,
+      "Name": "Vaikuntha Jamnerkar"
+    },
+    "ModifiedOn": "2023-08-22T12:15:54",
+    "ModifiedBy": {
+      "ID": 17,
+      "Name": "Vaikuntha Jamnerkar"
+    },
+    "ID": 714943,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "ok",
+    "Owner": {
+      "ID": 17,
+      "Name": "Vaikuntha Jamnerkar"
+    },
+    "Label_c": "Ok",
+    "Type_c": "Boolean",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 27363,
+      "Name": "AA23550"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "True",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-08-22T12:15:54",
+    "CreatedBy": {
+      "ID": 17,
+      "Name": "Vaikuntha Jamnerkar"
+    },
+    "ModifiedOn": "2023-08-22T12:15:54",
+    "ModifiedBy": {
+      "ID": 17,
+      "Name": "Vaikuntha Jamnerkar"
+    },
+    "ID": 714942,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "message_ts",
+    "Owner": {
+      "ID": 17,
+      "Name": "Vaikuntha Jamnerkar"
+    },
+    "Label_c": "Message Ts",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 27363,
+      "Name": "AA23550"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Query",
+    "SampleValue_c": "1692704022.481059",
+    "Choices_c": "",
+    "IsRequired_c": true,
+    "Direction_c": "Input",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": 2,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-08-22T12:15:45",
+    "CreatedBy": {
+      "ID": 17,
+      "Name": "Vaikuntha Jamnerkar"
+    },
+    "ModifiedOn": "2023-08-22T12:42:18",
+    "ModifiedBy": {
+      "ID": 17,
+      "Name": "Vaikuntha Jamnerkar"
+    },
+    "ID": 714941,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "channel",
+    "Owner": {
+      "ID": 17,
+      "Name": "Vaikuntha Jamnerkar"
+    },
+    "Label_c": "Channel ID",
+    "Type_c": "DynamicDropdown",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 27363,
+      "Name": "AA23550"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Query",
+    "SampleValue_c": "C04BA4L8M37",
+    "Choices_c": "",
+    "IsRequired_c": true,
+    "Direction_c": "Input",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "1296.id|name",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": 1,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-08-22T12:15:45",
+    "CreatedBy": {
+      "ID": 17,
+      "Name": "Vaikuntha Jamnerkar"
+    },
+    "ModifiedOn": "2023-08-22T12:42:24",
+    "ModifiedBy": {
+      "ID": 17,
+      "Name": "Vaikuntha Jamnerkar"
+    },
+    "ID": 714940,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  }
+]
