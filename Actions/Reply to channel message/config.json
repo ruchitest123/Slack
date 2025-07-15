@@ -1,0 +1,1162 @@
+[
+  {
+    "Name": "icon_url",
+    "Owner": {
+      "ID": 38,
+      "Name": "Pradhunya Shewale"
+    },
+    "Label_c": "Bot Icon",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 25478,
+      "Name": "AA21665"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Input",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-11-08T10:05:53",
+    "CreatedBy": {
+      "ID": 38,
+      "Name": "Pradhunya Shewale"
+    },
+    "ModifiedOn": "2023-11-08T10:06:04",
+    "ModifiedBy": {
+      "ID": 38,
+      "Name": "Pradhunya Shewale"
+    },
+    "ID": 748677,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "username",
+    "Owner": {
+      "ID": 38,
+      "Name": "Pradhunya Shewale"
+    },
+    "Label_c": "Bot Name",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 25478,
+      "Name": "AA21665"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Input",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-11-08T09:39:48",
+    "CreatedBy": {
+      "ID": 38,
+      "Name": "Pradhunya Shewale"
+    },
+    "ModifiedOn": "2023-11-08T09:40:19",
+    "ModifiedBy": {
+      "ID": 38,
+      "Name": "Pradhunya Shewale"
+    },
+    "ID": 748670,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "as_user",
+    "Owner": {
+      "ID": 38,
+      "Name": "Pradhunya Shewale"
+    },
+    "Label_c": "As User",
+    "Type_c": "Dropdown",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 25478,
+      "Name": "AA21665"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "",
+    "Choices_c": "true|Yes,false|No",
+    "IsRequired_c": false,
+    "Direction_c": "Input",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-11-08T09:39:48",
+    "CreatedBy": {
+      "ID": 38,
+      "Name": "Pradhunya Shewale"
+    },
+    "ModifiedOn": "2023-11-08T09:40:19",
+    "ModifiedBy": {
+      "ID": 38,
+      "Name": "Pradhunya Shewale"
+    },
+    "ID": 748669,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "message.parent_user_id",
+    "Owner": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "Label_c": "Message Parent User ID",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 25478,
+      "Name": "AA21665"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "U059RA222JG",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-05-30T12:16:10",
+    "CreatedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ModifiedOn": "2023-05-30T12:16:10",
+    "ModifiedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ID": 638312,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "message.thread_ts",
+    "Owner": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "Label_c": "Message Thread Ts",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 25478,
+      "Name": "AA21665"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "1685101270.508619",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-05-30T12:16:10",
+    "CreatedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ModifiedOn": "2023-05-30T12:16:10",
+    "ModifiedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ID": 638311,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "text",
+    "Owner": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "Label_c": "Text",
+    "Type_c": "String",
+    "ParentKey_c": "message.blocks|elements|elements",
+    "ActionId_c": {
+      "ID": 25478,
+      "Name": "AA21665"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "Issue #21 resolved",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 257,
+      "Name": "Message__text"
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-05-30T12:16:10",
+    "CreatedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ModifiedOn": "2023-05-31T04:09:02",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 638310,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "type",
+    "Owner": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "Label_c": "Type",
+    "Type_c": "String",
+    "ParentKey_c": "message.blocks|elements|elements",
+    "ActionId_c": {
+      "ID": 25478,
+      "Name": "AA21665"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "Recurring",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 85,
+      "Name": "Campaign__type"
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-05-30T12:16:10",
+    "CreatedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ModifiedOn": "2023-05-31T04:09:02",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 638309,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "type",
+    "Owner": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "Label_c": "Type",
+    "Type_c": "String",
+    "ParentKey_c": "message.blocks|elements",
+    "ActionId_c": {
+      "ID": 25478,
+      "Name": "AA21665"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "Recurring",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 85,
+      "Name": "Campaign__type"
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-05-30T12:16:10",
+    "CreatedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ModifiedOn": "2023-05-31T04:09:02",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 638308,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "block_id",
+    "Owner": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "Label_c": "Block ID",
+    "Type_c": "String",
+    "ParentKey_c": "message.blocks",
+    "ActionId_c": {
+      "ID": 25478,
+      "Name": "AA21665"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "8QIo6",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-05-30T12:16:10",
+    "CreatedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ModifiedOn": "2023-05-30T12:16:10",
+    "ModifiedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ID": 638307,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "type",
+    "Owner": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "Label_c": "Type",
+    "Type_c": "String",
+    "ParentKey_c": "message.blocks",
+    "ActionId_c": {
+      "ID": 25478,
+      "Name": "AA21665"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "Recurring",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 85,
+      "Name": "Campaign__type"
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-05-30T12:16:10",
+    "CreatedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ModifiedOn": "2023-05-31T04:09:02",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 638306,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "message.app_id",
+    "Owner": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "Label_c": "Message App ID",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 25478,
+      "Name": "AA21665"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "A017H514EFJ",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-05-30T12:16:10",
+    "CreatedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ModifiedOn": "2023-05-30T12:16:10",
+    "ModifiedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ID": 638305,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "message.bot_id",
+    "Owner": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "Label_c": "Message Bot ID",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 25478,
+      "Name": "AA21665"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "B05A1HNNWC9",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-05-30T12:16:10",
+    "CreatedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ModifiedOn": "2023-05-30T12:16:10",
+    "ModifiedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ID": 638304,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "message.username",
+    "Owner": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "Label_c": "Message Username",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 25478,
+      "Name": "AA21665"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "John Doe",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 201,
+      "Name": "User__name"
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-05-30T12:16:10",
+    "CreatedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ModifiedOn": "2023-05-31T04:09:02",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 638303,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "message.ts",
+    "Owner": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "Label_c": "Message Ts",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 25478,
+      "Name": "AA21665"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "1685448902.720169",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-05-30T12:16:10",
+    "CreatedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ModifiedOn": "2023-05-30T12:16:10",
+    "ModifiedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ID": 638302,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "message.text",
+    "Owner": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "Label_c": "Message Text",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 25478,
+      "Name": "AA21665"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "Issue #21 resolved",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 257,
+      "Name": "Message__text"
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-05-30T12:16:10",
+    "CreatedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ModifiedOn": "2023-05-31T04:09:02",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 638301,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "message.subtype",
+    "Owner": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "Label_c": "Message Subtype",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 25478,
+      "Name": "AA21665"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "bot_message",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-05-30T12:16:10",
+    "CreatedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ModifiedOn": "2023-05-30T12:16:10",
+    "ModifiedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ID": 638300,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "message.type",
+    "Owner": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "Label_c": "Message Type",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 25478,
+      "Name": "AA21665"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "Recurring",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 85,
+      "Name": "Campaign__type"
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-05-30T12:16:10",
+    "CreatedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ModifiedOn": "2023-05-31T04:09:02",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 638299,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "ts",
+    "Owner": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "Label_c": "Ts",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 25478,
+      "Name": "AA21665"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "1685448902.720169",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-05-30T12:16:10",
+    "CreatedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ModifiedOn": "2023-05-30T12:16:10",
+    "ModifiedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ID": 638298,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "channel",
+    "Owner": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "Label_c": "Channel ID",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 25478,
+      "Name": "AA21665"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "C059G76A93Q",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-05-30T12:16:10",
+    "CreatedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ModifiedOn": "2023-05-30T12:16:10",
+    "ModifiedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ID": 638297,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "ok",
+    "Owner": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "Label_c": "Ok",
+    "Type_c": "Boolean",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 25478,
+      "Name": "AA21665"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": "True",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2023-05-30T12:16:10",
+    "CreatedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ModifiedOn": "2023-05-30T12:16:10",
+    "ModifiedBy": {
+      "ID": 34,
+      "Name": "Roshan Khulat"
+    },
+    "ID": 638296,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  }
+]
