@@ -1,0 +1,60 @@
+[
+  {
+    "Name": "channel",
+    "Owner": {
+      "ID": 4,
+      "Name": "Akshay Saundane"
+    },
+    "Label_c": "Channel",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 20415,
+      "Name": "AA16602"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Query",
+    "SampleValue_c": "",
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Input",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": 1,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2022-09-06T13:47:15",
+    "CreatedBy": {
+      "ID": 4,
+      "Name": "Akshay Saundane"
+    },
+    "ModifiedOn": "2024-02-28T11:22:47",
+    "ModifiedBy": {
+      "ID": 25,
+      "Name": "Harshal Yeolekar"
+    },
+    "ID": 477603,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  }
+]
