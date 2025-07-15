@@ -1,0 +1,57 @@
+{
+  "ID": 173,
+  "Name": "Slack",
+  "CreatedOn": "2020-06-27T17:10:27",
+  "CreatedBy": {
+    "ID": 4,
+    "Name": "Akshay Saundane"
+  },
+  "ModifiedOn": "2025-03-20T08:51:38",
+  "ModifiedBy": {
+    "ID": 24,
+    "Name": "Ruchita Bachhav"
+  },
+  "DeletedOn": null,
+  "DeletedBy": {
+    "ID": 0,
+    "Name": ""
+  },
+  "Owner": {
+    "ID": 4,
+    "Name": "Akshay Saundane"
+  },
+  "Label_c": "Slack",
+  "LogoUrl_c": "https://integrately-app-logos.s3-us-west-2.amazonaws.com/slack.png",
+  "IsStandard_c": false,
+  "Description_c": "Slack brings all your communication together in one place. You can easily share and search for files, automate your workflow with bots, and message your team members for group conversations - be it your computer, phone or tablet.",
+  "AuthType_c": "OAuth2",
+  "AuthMapping_c": "{\"access_token\":\"{{access_token}}\",\"team_id\":\"{{team_id}}\"}",
+  "AuthTitleMapping_c": "",
+  "AuthTokenPlacement_c": "Header",
+  "ClientId_c": "5877753076628.5860778788919",
+  "ClientSecret_c": "d967f94e14e4a2c4f083c7a4c21da4e4",
+  "AuthorizationUrl_c": "https://slack.com/oauth/authorize",
+  "AccessTokenUrl_c": "https://slack.com/api/oauth.access",
+  "RequestTokenUrl_c": "",
+  "RefreshTokenUrl_c": "",
+  "Scopes_c": "channels:history groups:history mpim:history im:history channels:read groups:read mpim:read im:read im:write users:read  chat:write:user chat:write:bot emoji:read reactions:read files:read stars:read search:read users.profile:write groups:write reminders:write users:read.email channels:write",
+  "IsPublic_c": false,
+  "Tag": "Test-Deployed,Production-Deployed",
+  "OAuth_AppDashboardUrl_c": "https://test.integrately.com/auth/Slack/authorize",
+  "API_DocumentationUrl_c": "https://api.slack.com",
+  "Is_Module_c": false,
+  "AuthVideoUrl_c": null,
+  "AppWebhookDescription_c": "",
+  "Primary_Color_c": "54 197 240",
+  "HasCustomOAuth_c": false,
+  "DeAuthorizationUrl_c": "",
+  "Website_link_c": "https://slack.com/",
+  "Slug_c": "slack",
+  "IsPremium_c": false,
+  "IntegrationPageUrl_c": "",
+  "IntegratelyTags_c": "",
+  "Current_Developer_c": {
+    "ID": 4,
+    "Name": "Akshay Saundane"
+  }
+}
